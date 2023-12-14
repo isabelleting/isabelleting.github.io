@@ -7,7 +7,9 @@ A portfolio project with MIT xPro to showcase what we’ve worked on these first
 ## How To Run
 
 After loading in a browser window, from the nav bar:
-* the Home page includes everything about me, the My Projects page includes links to all my project repos, and the Contact Me link will take you to LinkedIn for contact purposes. 
+* The Home page includes everything about me.
+* The My Projects page includes links to all my project repos.
+* The Contact Me link will take you to LinkedIn for contact purposes. 
 
 ## Future Roadmap
 
