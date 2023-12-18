@@ -9,6 +9,67 @@
   grid-column: 3 / 5;
 }
 
+h2 {
+  color: black;
+  font-size: 2em;
+  font-style: italic;
+  font-family: 'Lucida handwriting', serif;
+}
+
+img {
+  border-radius: 8px;
+}
+
+.container-fluid {
+  /* nav bar */
+  background-color: silver;
+  border-color: gray;
+  font-family: 'Lucida handwriting', serif;
+}
+
+.btn-primary {
+  color: floralwhite;
+  background-color: rgb(121, 130, 138);
+  border-color: rgb(121, 130, 138);
+  font-family: 'Lucida handwriting', serif;
+}
+
+.btn-secondary {
+  color: floralwhite;
+  background-color: gray;
+  border-color: gray;
+  position: relative;
+  left: 290px;
+  font-family: 'Lucida handwriting', serif;
+} 
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: gainsboro;
+}
+
+.desc { 
+  color: rgb(57, 57, 57);
+  font-size: 1.5em; 
+  font-family: 'Lucida handwriting', serif;
+}
+
+.card-text {
+  color: dimgray;
+  font-family: 'Lucida handwriting', serif;
+  font-style: italic;
+  font-size: 1.5em;  
+  text-align: center;
+}
+
+.card-title {
+  color: rgb(72, 72, 72);
+  font-style: italic;
+  font-family: 'Lucida handwriting', serif;
+  text-align: center;
+}
+
 .card {
   background-color: silver;
   width: 50rem;
@@ -22,73 +83,10 @@
   grid-row: 2 / 3;
 }
 
-h2 {
-  color: black;
-  font-size: 2em;
-  font-style: italic;
-  font-family: 'Lucida handwriting',serif;
+.carousel {
+  margin-bottom: 4rem;
 }
 
-img {
-  border-radius: 8px;
+.carousel-item {
+  height: 32rem;
 }
-
-.desc { 
-  color: rgb(57, 57, 57);
-  font-family: 'Lucida handwriting',serif;
-  font-size: 1.5em;
-}
-
-
-.btn-primary {
-  color: floralwhite;
-  background-color: rgb(121, 130, 138);
-  border-color: rgb(121, 130, 138);
-  font-family: 'Lucida handwriting',serif;
- 
-}
-
-.btn-secondary {
-  color: floralwhite;
-  background-color: gray;
-  border-color: gray;
-  position: relative;
-  left: 290px;
-  font-family: 'Lucida handwriting',serif;
-} 
-
-.container-fluid {
-  background-color: silver;
-  border-color: gray;
-  font-family: 'Lucida handwriting',serif;
-  
-}
-
-.card-text {
-    color: dimgray;
-    font-family: 'Lucida handwriting',serif;
-    font-style: italic;
-    font-size: 1.5em;  
-    text-align: center;
-}
-
-.card-title {
-   color: rgb(72, 72, 72);
-   font-style: italic;
-   font-family: 'Lucida handwriting',serif;
-   text-align: center;
- }
- 
-body {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-    background-color: gainsboro;
-  }
-
-  .carousel {
-    margin-bottom: 4rem;
-  }
-
-  .carousel-item {
-    height: 32rem;
-  }
