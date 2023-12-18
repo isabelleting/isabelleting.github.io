@@ -11,7 +11,7 @@ After loading in a browser window, from the nav bar:
 * The My Projects page includes links to all my project repos.
 * The Contact Me link will take you to LinkedIn for contact purposes. 
 
-## Future Roadmap
+## Roadmap of Future Improvements
 
 I would like to polish this portfolio while adding more projects, and update the styling as I go on.
 
